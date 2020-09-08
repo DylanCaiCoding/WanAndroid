@@ -1,4 +1,4 @@
-import com.dylanc.plugin.*
+import com.dylanc.version.*
 
 buildscript {
     repositories {
@@ -6,9 +6,9 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:4.0.1"
-        classpath Kotlin.plugin
-        classpath Navigation.plugin
+        classpath ClassPath.buildGradle
+        classpath ClassPath.kotlinPlugin
+        classpath ClassPath.navigationPlugin
     }
 }
 
