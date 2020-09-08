@@ -2,7 +2,20 @@
   <dictionary name="36136">
     <words>
       <w>anko</w>
+      <w>blankj</w>
+      <w>cardview</w>
+      <w>constraintlayout</w>
+      <w>deps</w>
+      <w>dylanc</w>
+      <w>gson</w>
+      <w>jakewharton</w>
       <w>koin</w>
+      <w>livedata</w>
+      <w>rxjava</w>
+      <w>sqlite</w>
+      <w>squareup</w>
+      <w>utilcode</w>
+      <w>viewmodel</w>
     </words>
   </dictionary>
 </component>
